@@ -1,0 +1,42 @@
+.header{
+    height: 150px;
+    background-color: red;
+}
+.container{
+    overflow: hidden;
+}
+.blog{
+    width: 70%;
+    height:250px;
+    background-color: blue;
+    float: left;
+}
+.contact{
+    width: 30%;
+    height:250px;
+    background-color: black;
+    float: right;
+}
+.box{
+    width: 33.33%;
+    float: left;
+}
+.green{
+    height: 100px;
+    background-color: rgb(148, 57, 143);
+}
+.yellow{
+    height: 100px;
+    background-color: rgb(96, 187, 101);
+}
+.badami{
+    height: 100px;
+    background-color: rgb(235, 200, 2);
+}
+.footer{
+    height: 150px;
+    background-color: green;
+    }
+h1{
+    display: inline-block;
+}
